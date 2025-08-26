@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap');
+@media screen and (min-width: 960px)
+{
+   #content,
+   aside,	{
+       width: 100%;
+       padding: 0;
+			}
+}
+header {
+	display:inline;
+}
+.utama
+{
+	height: 80px;
+	border-bottom: 3px solid #ccc;
+}
+.nav
+{	
+	margin-left:auto;
+	margin-right:auto;
+	padding-left: 10px;
+    padding-right: 10px;
+	overflow:auto;
+}
+.logo #ikonlogo
+{
+	float:left;
+	height: 80px;	
+}
+.menu 
+{
+	float:right;
+	position: sticky;
+	top: 0;
+}
+.menu li 
+{
+   display:inline;
+   line-height:4.0;
+   list-style-type: none;
+}
+.menu li a 
+{
+	color: black;
+    padding: 36px 30px 30px;
+    text-decoration: none;
+    font-family: 'Oswald',sans-serif;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+ .menu a:hover {
+   color: #bf0016;
+   font-weight: bold;
+	}
+* {
+   box-sizing: border-box;
+   }
+ #home{
+	padding:4em 2em;
+	display:inline-block;
+	overflow:auto;
+	
+}
+.homeisi {
+	float:left;
+	max-width:50%;
+}
+#home #home-image {
+	float:right;
+	max-height:350px;
+   }
+p{
+	
+	text-align: justify;
+    font-weight: normal;
+	font-weight: bold;
+    text-transform: none;
+    font-variant-numeric: proportional-nums;
+    font-size: 20px;
+    color: #16171a;
+	line-height: 1.4;
+}
+h2 {
+	
+    font-weight: bold;
+    text-transform: none;
+    font-variant-numeric: proportional-nums;
+    font-size: 32px;
+    line-height: 36px;
+    color: #bf0016;
+}
+.judul {
+	background-color:#bf0016;
+	color:#fefefe;
+	max-width:220px;
+	padding-left:5px;
+}
+.subjudul{
+	
+    font-weight: bold;
+    text-transform: none;
+    font-variant-numeric: proportional-nums;
+    font-size: 24px;
+    line-height: 28px;
+    color: #16171a;
+    margin-bottom: 0;
+    text-align: inherit;
+	max-width:50%;
+	margin-bottom:2em;
+}
+.featured-image {
+   width: 100%;
+   max-height: 500px;
+   object-fit: cover;
+   object-position: center;
+}
+aside {
+	margin-left:auto;
+	margin-right:auto;
+	background-color: #f4f3f3;
+	text-align:center;
+}
+h3 #judulprofil {
+	text-align:center;
+}
+p #keteranganprofil {
+	margin-left:auto;
+	margin-right:auto;
+}
+footer p{
+   padding: 20px;
+   color: white;
+   background-color: #bf0016;
+   text-align:center;
+   font-weight: bold; 
+   }
+.profil img {
+   width: 200px;
+  }
+.judulprofil {
+	background-color:#bf0016;
+	color:#fefefe;
+	max-width:220px;
+	padding-left:5px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.ketprofil p {
+	margin-left:auto;
+	margin-right:auto;
+	max-width:250px;
+	font-size: 18px;
+	text-align:justify;
+}
+table{
+	margin-left:auto;
+	margin-right:auto;
+}
+.card {
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+   border-radius: 5px;
+   padding: 20px;
+   margin-top: 20px;
+}
