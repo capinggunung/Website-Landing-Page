@@ -1,5 +1,5 @@
-Aplikasi Agenda atau To Do list kategori Frontend berbasis javascript native tanpa database(Setiap kali Aplikasi di restart atau setiap kali browser di restart, data akan hilang).
+Website sederhana berisi homepage yang dibuat menggunakan HTML, CSS dan javascript dasar.
 
-Untuk mencoba Aplikasi ini langsung bisa klik di : https://capinggunung.github.io/Website-Landing-Page/
+Lihat Web, klik : https://capinggunung.github.io/Website-Landing-Page/
 
 Terima Kasih.
